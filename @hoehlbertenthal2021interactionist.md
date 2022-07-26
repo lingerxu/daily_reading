@@ -1,7 +1,7 @@
 ---
 alias: hoehlbertenthal2021interactionist
 tags: social_attention, reading
-rating: ⭐⭐⭐⭐
+rating: ⭐⭐⭐⭐⭐
 share: false
 ptype: article
 ---
@@ -22,6 +22,7 @@ ptype: article
 
 ## How to cite:
 * Cite key: hoehlbertenthal2021interactionist
+* 
 
 (Hoehl and Bertenthal, 2021)
 note date: 2022-06-06
